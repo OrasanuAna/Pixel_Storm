@@ -1,0 +1,16 @@
+C:\Users\Eduard Milotai\Desktop\C#\A and E Application\A and E Application\bin\Debug\A and E Application.exe.config
+C:\Users\Eduard Milotai\Desktop\C#\A and E Application\A and E Application\bin\Debug\A and E Application.exe
+C:\Users\Eduard Milotai\Desktop\C#\A and E Application\A and E Application\bin\Debug\A and E Application.pdb
+C:\Users\Eduard Milotai\Desktop\C#\A and E Application\A and E Application\obj\Debug\A and E Application.csproj.AssemblyReference.cache
+C:\Users\Eduard Milotai\Desktop\C#\A and E Application\A and E Application\obj\Debug\A and E Application.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eduard Milotai\Desktop\C#\A and E Application\A and E Application\obj\Debug\A_and_E_Application.RegisterForm.resources
+C:\Users\Eduard Milotai\Desktop\C#\A and E Application\A and E Application\obj\Debug\A_and_E_Application.Properties.Resources.resources
+C:\Users\Eduard Milotai\Desktop\C#\A and E Application\A and E Application\obj\Debug\A and E Application.csproj.GenerateResource.cache
+C:\Users\Eduard Milotai\Desktop\C#\A and E Application\A and E Application\obj\Debug\A and E Application.csproj.CoreCompileInputs.cache
+C:\Users\Eduard Milotai\Desktop\C#\A and E Application\A and E Application\obj\Debug\A and E Application.exe
+C:\Users\Eduard Milotai\Desktop\C#\A and E Application\A and E Application\obj\Debug\A and E Application.pdb
+C:\Users\Eduard Milotai\Desktop\C#\A and E Application\A and E Application\obj\Debug\A_and_E_Application.LoginForm.resources
+C:\Users\Eduard Milotai\Desktop\C#\A and E Application\A and E Application\obj\Debug\A_and_E_Application.main.resources
+C:\Users\Eduard Milotai\Desktop\C#\A and E Application\A and E Application\obj\Debug\A_and_E_Application.Rock_Paper_and_Scissors_Game.resources
+C:\Users\Eduard Milotai\Desktop\C#\A and E Application\A and E Application\obj\Debug\A_and_E_Application.SpaceRunner.resources
+C:\Users\Eduard Milotai\Desktop\C#\A and E Application\A and E Application\obj\Debug\A_and_E_Application.AirCombat.resources
